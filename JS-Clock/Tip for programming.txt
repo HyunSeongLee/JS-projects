@@ -1,2 +1,0 @@
-When you write javascript code, you firstly declare all variables as const.
-Use const only in case that you need it!
